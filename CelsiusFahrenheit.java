@@ -1,12 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.celsiusfahrenheit;
-/**
- *
- * @author Vinicius
- */
 import java.util.Scanner;
 public class CelsiusFahrenheit {
     public static void main(String[] args) {
